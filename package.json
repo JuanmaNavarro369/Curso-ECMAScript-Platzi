@@ -1,0 +1,19 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Todas las versiones de ECMAScript desde ES6 y sus principales características",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "node"
+  ],
+  "author": "Juan Manuel Navarro",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
